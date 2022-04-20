@@ -1,0 +1,15 @@
+body {
+background-color: #76f05b;
+}
+
+h1 {
+    width: 18pc;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:x-large;
+}
+#camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
